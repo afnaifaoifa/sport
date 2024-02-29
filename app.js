@@ -146,4 +146,4 @@ function authMiddleware(req, res, next) {
 }
 
 
-app.listen(3002, () => console.log('Server started on port 3002'));
+app.listen(3000, () => console.log('Server started on port 3000'));
